@@ -1,1 +1,2 @@
 Test line of text, second one
+Added line 02-Nov-2017 11:33
